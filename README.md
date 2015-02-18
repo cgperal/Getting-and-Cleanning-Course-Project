@@ -12,8 +12,11 @@ The run.analysis() performs the actual job:
 
 
 To run the script and test the code do the following:
+
 source('./run_analysis.R')
+
 download.data() # download data and unzip it
+
 run.analysis() # invoke the function
 
 Raw data set
